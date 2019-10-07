@@ -4,6 +4,10 @@ O conteúdo desse repositório é destinado aos frontends do PB Tech.
 
 O objetivo é ensinar e aprender sobre boas práticas na codificação de testes.
 
+## Por que escrever testes?
+
+???
+
 ## Para quem escrevemos os testes?
 
 1. Para nossos clientes
