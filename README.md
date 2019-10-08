@@ -6,7 +6,10 @@ O objetivo é ensinar e aprender sobre boas práticas na codificação de testes
 
 ## Por que escrever testes?
 
-???
+1. Para termos mais confiança no que desenvolvemos
+2. Para garantir a integridade, qualidade e funcionalidade do que desenvolvemos
+3. Pra garantir que as coisas continuem funcionando
+4. Ajuda a pensar em diferentes cenários
 
 ## Para quem escrevemos os testes?
 
@@ -33,6 +36,7 @@ Tem por objetivo garantir que várias unidades funcionam corretamente em harmoni
 1. Regras de negócio
 2. Interações que esperamos que nossos usuários façam
 3. Interações que, caso nossos usuários façam, não causem um resultado inesperado
+4. Conferir se os erros esperados e inesperados estão tratados corretamente
 
 ## Em que momento devemos criar nossos testes?
 
